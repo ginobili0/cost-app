@@ -1,0 +1,8 @@
+name: shiny-app
+account: tejaykodali
+server: shinyapps.io
+bundleId: 225938
+url: https://tejaykodali.shinyapps.io/shiny-app
+when: 1437861663.46823
+asMultiple: FALSE
+asStatic: FALSE
